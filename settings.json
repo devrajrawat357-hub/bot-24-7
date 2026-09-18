@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "24/7 online ",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "drzdev.aternos.me",
-    "port": 55871,
+    "ip": " PRANAVIE.aternos.me",
+    "port": 57239,
     "version": "1.21.4",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "devraj1.2"
     },
     "anti-afk": {
       "enabled": true,
